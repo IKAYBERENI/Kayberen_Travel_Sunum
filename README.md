@@ -23,7 +23,7 @@ Yorum Yapma:
 ![YorumYapma](https://user-images.githubusercontent.com/112905722/224553448-388dfc7a-8430-48a7-8da4-8a1489f02423.png)
 
 KODLAR:
-ProfileControle:
+ProfileControler:
 ![ProfileController](https://user-images.githubusercontent.com/112905722/224553491-fccaba72-27b2-44af-97ac-88be56a2bc63.png)
 
 ReservationController:
