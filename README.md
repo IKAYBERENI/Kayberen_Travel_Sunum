@@ -1,6 +1,6 @@
 # Kayberen_Travel_Sunum
 
-Merhaba, Kayberen Travel Projesini İstanbul - Beşiktaş Wissen Akademi'de Eğitim aldığım süreçte kendim yazdım. Kayberen Travel Projesini Asp.Net Core 5.0 ile yazdığım bir web projesidir. Kapsamı geniş olan bu projeyi belirli kurs sürecimdeki zaman koşullarına göre yazdım. Projenin yazılmaaya devam eden bölümleri vardır. Bu proje ile amacım gerçek hayata yaklaşmaktır.
+Merhaba, Kayberen Travel Projesini İstanbul - Beşiktaş Wissen Akademi'de Eğitim aldığım süreçte kendim yazdım. Kayberen Travel Projesini Asp.Net Core 5.0 ile yazdığım bir web projesidir. Kapsamı geniş olan bu projeyi belirli kurs sürecimdeki zaman koşullarına göre yazdım. Projenin yazılmaya devam eden bölümleri vardır. Bu proje ile amacım gerçek hayata yaklaşmaktır.
 
 Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
